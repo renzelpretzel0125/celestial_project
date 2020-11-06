@@ -1,0 +1,1 @@
+The only problems I had with the code was trying to keep it within the 768x768 frame. I believe the file reads the inputs in arraylist correctly and that planets are effected by force as when in a smaller frame, two celestials would curve from each other.
